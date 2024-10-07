@@ -1,4 +1,4 @@
-# EJERCICIOS DE JACASCRIPT👨🏼‍💻
+# EJERCICIOS DE JAVASCRIPT👨🏼‍💻
 
 En este proyecto encontraran, practicas y actividades para mejorar habilidades en JAVASCRIPT. En el cual hay ejemplos sobres diferentes aspectos de lenguaje.
 Donde son diseñados con el proposito de reforzar los conceptos esenciales de la programacion
